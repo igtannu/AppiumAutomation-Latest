@@ -1056,3 +1056,164 @@
 2023-12-05 22:13:45,920 - Logger_file -INFO - Choose from documents
 2023-12-05 22:13:48,032 - Logger_file -INFO - Verified to upload
 2023-12-05 22:13:48,033 - Logger_file -INFO - Resume Uploaded Sucessfully
+2023-12-05 22:21:35,426 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:21:35,446 - Logger_file -INFO - Emulator Start
+2023-12-05 22:21:40,271 - Logger_file -INFO - Entered Name
+2023-12-05 22:21:41,075 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:21:45,894 - Logger_file -INFO - Choose City
+2023-12-05 22:21:48,710 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:21:52,942 - Logger_file -INFO - Choose gender
+2023-12-05 22:21:53,851 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:21:54,605 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:21:55,566 - Logger_file -INFO - Choose experince 
+2023-12-05 22:22:09,430 - Logger_file -INFO - Choose Various options
+2023-12-05 22:22:13,227 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:22:16,262 - Logger_file -INFO - Choose language
+2023-12-05 22:22:20,452 - Logger_file -INFO - Choose Central Filter
+2023-12-05 22:22:20,561 - Logger_file -INFO - Clcik on Choose button filter
+2023-12-05 22:22:25,816 - Logger_file -INFO - Clicked on Sort
+2023-12-05 22:22:26,113 - Logger_file -INFO - Job Chooses sucessfully
+2023-12-05 22:22:36,609 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:22:37,000 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:22:37,001 - Logger_file -INFO - Applied Filters Sucessfully
+2023-12-05 22:23:07,505 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:23:07,507 - Logger_file -INFO - Emulator Start
+2023-12-05 22:23:09,443 - Logger_file -INFO - Entered Name
+2023-12-05 22:23:10,213 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:23:19,717 - Logger_file -INFO - Choose City
+2023-12-05 22:23:22,088 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:23:26,000 - Logger_file -INFO - Choose gender
+2023-12-05 22:23:26,906 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:23:27,661 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:23:28,517 - Logger_file -INFO - Choose experince 
+2023-12-05 22:23:43,202 - Logger_file -INFO - Choose Various options
+2023-12-05 22:23:47,677 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:23:51,651 - Logger_file -INFO - Choose language
+2023-12-05 22:23:57,194 - Logger_file -INFO - Search for job
+2023-12-05 22:24:02,279 - Logger_file -INFO - Job Chooses sucessfully
+2023-12-05 22:24:04,976 - Logger_file -INFO - Verify For Job Seacrh
+2023-12-05 22:24:04,976 - Logger_file -INFO - SucessFully apply for job
+2023-12-05 22:24:37,870 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:24:37,871 - Logger_file -INFO - Emulator Start
+2023-12-05 22:24:39,919 - Logger_file -INFO - Entered Name
+2023-12-05 22:24:40,691 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:24:53,526 - Logger_file -INFO - Choose City
+2023-12-05 22:24:55,773 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:24:59,551 - Logger_file -INFO - Choose gender
+2023-12-05 22:25:00,547 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:25:01,337 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:25:02,205 - Logger_file -INFO - Choose experince 
+2023-12-05 22:25:19,511 - Logger_file -INFO - Choose Various options
+2023-12-05 22:25:22,985 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:25:26,017 - Logger_file -INFO - Choose language
+2023-12-05 22:25:28,508 - Logger_file -INFO - Verified Registraction 
+2023-12-05 22:25:28,583 - Logger_file -INFO - Registered Sucessfully
+2023-12-05 22:25:53,592 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:25:53,593 - Logger_file -INFO - Emulator Start
+2023-12-05 22:25:55,494 - Logger_file -INFO - Entered Name
+2023-12-05 22:25:56,297 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:25:58,747 - Logger_file -ERROR - Error should be displayed
+2023-12-05 22:26:20,377 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:26:20,377 - Logger_file -INFO - Emulator Start
+2023-12-05 22:26:21,879 - Logger_file -INFO - Entered Name
+2023-12-05 22:26:22,637 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:26:33,856 - Logger_file -INFO - Choose City
+2023-12-05 22:26:36,139 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:29:05,207 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:29:05,221 - Logger_file -INFO - Emulator Start
+2023-12-05 22:29:09,707 - Logger_file -INFO - Entered Name
+2023-12-05 22:29:10,584 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:29:21,753 - Logger_file -INFO - Choose City
+2023-12-05 22:29:24,062 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:29:27,934 - Logger_file -INFO - Choose gender
+2023-12-05 22:29:28,693 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:29:29,304 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:29:30,241 - Logger_file -INFO - Choose experince 
+2023-12-05 22:29:44,119 - Logger_file -INFO - Choose Various options
+2023-12-05 22:29:47,958 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:29:51,214 - Logger_file -INFO - Choose language
+2023-12-05 22:29:55,752 - Logger_file -INFO - Choose Central Filter
+2023-12-05 22:29:55,896 - Logger_file -INFO - Clcik on Choose button filter
+2023-12-05 22:30:01,134 - Logger_file -INFO - Clicked on Sort
+2023-12-05 22:30:01,588 - Logger_file -INFO - Job Chooses sucessfully
+2023-12-05 22:30:18,088 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:30:18,433 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:30:18,433 - Logger_file -INFO - Applied Filters Sucessfully
+2023-12-05 22:30:45,610 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:30:45,611 - Logger_file -INFO - Emulator Start
+2023-12-05 22:30:47,588 - Logger_file -INFO - Entered Name
+2023-12-05 22:30:48,417 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:32:13,902 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:32:13,909 - Logger_file -INFO - Emulator Start
+2023-12-05 22:32:16,645 - Logger_file -INFO - Entered Name
+2023-12-05 22:32:17,384 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:32:24,752 - Logger_file -INFO - Choose City
+2023-12-05 22:32:26,962 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:32:29,702 - Logger_file -INFO - Choose gender
+2023-12-05 22:32:30,544 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:32:31,160 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:32:31,943 - Logger_file -INFO - Choose experince 
+2023-12-05 22:32:44,611 - Logger_file -INFO - Choose Various options
+2023-12-05 22:32:47,779 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:32:50,533 - Logger_file -INFO - Choose language
+2023-12-05 22:32:54,475 - Logger_file -INFO - Choose Central Filter
+2023-12-05 22:32:54,571 - Logger_file -INFO - Clcik on Choose button filter
+2023-12-05 22:32:58,708 - Logger_file -INFO - Clicked on Sort
+2023-12-05 22:32:58,897 - Logger_file -INFO - Job Chooses sucessfully
+2023-12-05 22:33:06,469 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:33:06,739 - Logger_file -INFO - Verify Sucessfully
+2023-12-05 22:33:06,739 - Logger_file -INFO - Applied Filters Sucessfully
+2023-12-05 22:33:26,273 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:33:26,274 - Logger_file -INFO - Emulator Start
+2023-12-05 22:33:27,736 - Logger_file -INFO - Entered Name
+2023-12-05 22:33:28,430 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:33:37,876 - Logger_file -INFO - Choose City
+2023-12-05 22:33:40,089 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:33:43,585 - Logger_file -INFO - Choose gender
+2023-12-05 22:33:46,962 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:33:47,578 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:33:48,443 - Logger_file -INFO - Choose experince 
+2023-12-05 22:34:01,635 - Logger_file -INFO - Choose Various options
+2023-12-05 22:34:04,909 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:34:07,632 - Logger_file -INFO - Choose language
+2023-12-05 22:34:12,880 - Logger_file -INFO - Search for job
+2023-12-05 22:34:15,764 - Logger_file -INFO - Job Chooses sucessfully
+2023-12-05 22:34:17,316 - Logger_file -INFO - Verify For Job Seacrh
+2023-12-05 22:34:17,317 - Logger_file -INFO - SucessFully apply for job
+2023-12-05 22:34:39,494 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:34:39,494 - Logger_file -INFO - Emulator Start
+2023-12-05 22:34:41,110 - Logger_file -INFO - Entered Name
+2023-12-05 22:34:41,838 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:34:51,592 - Logger_file -INFO - Choose City
+2023-12-05 22:34:53,820 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:34:56,174 - Logger_file -INFO - Choose gender
+2023-12-05 22:34:56,976 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:34:57,614 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:34:58,400 - Logger_file -INFO - Choose experince 
+2023-12-05 22:35:13,380 - Logger_file -INFO - Choose Various options
+2023-12-05 22:35:16,622 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:35:19,084 - Logger_file -INFO - Choose language
+2023-12-05 22:35:21,610 - Logger_file -INFO - Verified Registraction 
+2023-12-05 22:35:21,667 - Logger_file -INFO - Registered Sucessfully
+2023-12-05 22:35:45,023 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:35:45,024 - Logger_file -INFO - Emulator Start
+2023-12-05 22:35:46,458 - Logger_file -INFO - Entered Name
+2023-12-05 22:35:47,164 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:35:48,703 - Logger_file -ERROR - Error should be displayed
+2023-12-05 22:36:08,700 - Logger_file -INFO - Basic Set-up
+2023-12-05 22:36:08,700 - Logger_file -INFO - Emulator Start
+2023-12-05 22:36:10,112 - Logger_file -INFO - Entered Name
+2023-12-05 22:36:10,844 - Logger_file -INFO - Entered Mobile no
+2023-12-05 22:36:22,666 - Logger_file -INFO - Choose City
+2023-12-05 22:36:25,058 - Logger_file -INFO - Enter Nearest Location
+2023-12-05 22:36:28,416 - Logger_file -INFO - Choose gender
+2023-12-05 22:36:29,503 - Logger_file -INFO - Chosses Qualification
+2023-12-05 22:36:30,110 - Logger_file -INFO - Chooses School Medium 
+2023-12-05 22:36:30,933 - Logger_file -INFO - Choose experince 
+2023-12-05 22:36:44,351 - Logger_file -INFO - Choose Various options
+2023-12-05 22:36:48,798 - Logger_file -INFO -  Last salary chooses
+2023-12-05 22:36:51,718 - Logger_file -INFO - Choose language
+2023-12-05 22:36:54,461 - Logger_file -INFO - Click to upload resume
+2023-12-05 22:36:56,905 - Logger_file -INFO - Choose from documents
+2023-12-05 22:36:58,987 - Logger_file -INFO - Verified to upload
+2023-12-05 22:36:58,988 - Logger_file -INFO - Resume Uploaded Sucessfully
