@@ -1,0 +1,4 @@
+file:src/test/java/features/ApplyFiltersFeature.feature:19
+file:src/test/java/features/UploadResume.feature:19
+file:src/test/java/features/JobSearchFeature.feature:19
+file:src/test/java/features/RegisterFeature.feature:19
