@@ -13,7 +13,7 @@ Selenium, Java, Cucumber, TestNG, ExtentReport, Appium, BrowserStack, Github, So
 
 ## Demo
 
-Insert gif or link to demo
+[Insert gif or link to demo](https://app-automate.browserstack.com/builds/b54c0de01815357355965f20029b03c3f0e75666/sessions/b70c54e3a91d2a515c6c536c2a9d25ac4aec9f74?auth_token=7fee78e5859c6e23623aa0f9f020aa9aabfb5f090ff695671e150223d9362664)
 
 
 ## Documentation
@@ -29,9 +29,8 @@ Insert gif or link to demo
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [SonarCloud Analysis](https://sonarcloud.io/project/overview?id=igtannu_AppiumAutomation-Latest)
+ - [BrowseStack Link]([https://github.com/matiassingers/awesome-readme](https://app-automate.browserstack.com/builds/b54c0de01815357355965f20029b03c3f0e75666/sessions/c28c6eaebb2a8c3cfdb81f27ed6730f55c5886d6?auth_token=53a3426f2ff5bec6b2ac8f7a8564a21de2a4e032d7433be227d5f367d2150a1a))
 
 
 ## Running Tests
