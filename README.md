@@ -31,7 +31,7 @@ Selenium, Java, Cucumber, TestNG, ExtentReport, Appium, BrowserStack, Github, So
 ## Acknowledgements
 
  - [SonarCloud Analysis](https://sonarcloud.io/project/overview?id=igtannu_AppiumAutomation-Latest)
- - [BrowseStack Link]([https://github.com/matiassingers/awesome-readme](https://app-automate.browserstack.com/builds/b54c0de01815357355965f20029b03c3f0e75666/sessions/c28c6eaebb2a8c3cfdb81f27ed6730f55c5886d6?auth_token=53a3426f2ff5bec6b2ac8f7a8564a21de2a4e032d7433be227d5f367d2150a1a))
+ - [BrowseStack Link](https://app-automate.browserstack.com/builds/b54c0de01815357355965f20029b03c3f0e75666/sessions/c28c6eaebb2a8c3cfdb81f27ed6730f55c5886d6?auth_token=53a3426f2ff5bec6b2ac8f7a8564a21de2a4e032d7433be227d5f367d2150a1a)
 
 
 ## Running Tests
