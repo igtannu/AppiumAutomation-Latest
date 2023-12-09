@@ -24,18 +24,18 @@ public class Hooks {
 	protected static AppiumDriverLocalService service;
 
 //Start Server
-	@Before
-	public void startservices() {
-		
-		AppiumServer.startservice();
-	}
+//	@Before
+//	public void startservices() {
+//		
+//		AppiumServer.startservice();
+//	}
 
 	// Stop server
-	@After(order = 1)
-	public void stopservices() {
-
-		AppiumServer.stopservice();
-	}
+//	@After(order = 1)
+//	public void stopservices() {
+//
+//		AppiumServer.stopservice();
+//	}
 	// remain it commented
 //		@After(order = 0)
 //		public void teardown() throws InterruptedException {
