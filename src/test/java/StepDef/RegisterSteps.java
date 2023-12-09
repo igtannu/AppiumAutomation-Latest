@@ -80,7 +80,6 @@ public void choose_Diff_Options() throws Throwable {
 	register_page.ChooseEnglishLevelFun();
 //	driver.scrol
 //	Base.VerticalSwipe(0.70, 0.10, 0.50);
-    register_page.ChooseExperienceFun();
 	 Dimension size = driver.manage().window().getSize();
 	   int startX = size.getWidth() / 2;
 	   int startY = size.getHeight() / 2;
@@ -95,6 +94,8 @@ public void choose_Diff_Options() throws Throwable {
 	       .addAction(finger1.createPointerUp(PointerInput.MouseButton.LEFT.asArg()));
 
 	   driver.perform(Collections.singletonList(sequence));
+	   
+	    register_page.ChooseExperienceFun();
 
 
 }

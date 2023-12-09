@@ -179,7 +179,6 @@ public void ChooseEnglishLevelFun() throws InterruptedException {
 
 public void ChooseExperienceFun() throws InterruptedException {
 	waitForVisibility(ChooseExperience);
-
 	ChooseExperience.click();
 }
 

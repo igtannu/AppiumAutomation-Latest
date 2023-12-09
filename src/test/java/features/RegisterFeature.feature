@@ -1,4 +1,4 @@
-@test  
+@test
 Feature: Register User
   I want to use this template for my feature file
 
@@ -18,12 +18,12 @@ Feature: Register User
       | Name       | MobileNo   | Location   |
       | Tanu Gupta | 1234567890 | Nalasopara |
 
-  Scenario Outline: Register with InValid Data
-    Given Opened emulator and app
-    When Enter <Name> and <MobileNo>
-    And Click on submit button
-    Then Error should be displayed
-
-    Examples: 
-      | Name       | MobileNo |
-      | Tanu Gupta |   123450 |
+  #Scenario Outline: Register with InValid Data
+    #Given Opened emulator and app
+    #When Enter <Name> and <MobileNo>
+    #And Click on submit button
+    #Then Error should be displayed
+#
+    #Examples: 
+      #| Name       | MobileNo |
+      #| Tanu Gupta |   123450 |

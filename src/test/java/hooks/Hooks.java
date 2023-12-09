@@ -36,7 +36,7 @@ public class Hooks {
 
 		AppiumServer.stopservice();
 	}
-	// Stop server
+	// remain it commented
 //		@After(order = 0)
 //		public void teardown() throws InterruptedException {
 //			Thread.sleep(500);
